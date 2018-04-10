@@ -6,7 +6,7 @@
 */
 // https://www.slideshare.net/radonFTlabkorea/ftlabdatasheet-rd200-mv12eng 
 
-#define INTERVAL 3  //sec
+#define INTERVAL 60  //sec
 #include <SoftwareSerial.h>
 SoftwareSerial r(D4, D3);  // Rx,Tx
 
