@@ -1,2 +1,2 @@
-# RD200M
-Library for RD200M Radon Sensor
+# Rd200m
+Library for Rd200m Radon Sensor
