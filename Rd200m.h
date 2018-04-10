@@ -1,3 +1,9 @@
+/*
+//    FILE: read_rd200m_values.ino
+//  AUTHOR: Kyuho Kim (ekyuho@gmail.com)
+// CREATED: April 10, 2018
+// Released to the public domain
+*/
 #ifndef Rd200m_h
 #define Rd200m_h
 

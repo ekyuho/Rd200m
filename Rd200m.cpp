@@ -1,3 +1,9 @@
+/*
+//    FILE: read_rd200m_values.ino
+//  AUTHOR: Kyuho Kim (ekyuho@gmail.com)
+// CREATED: April 10, 2018
+// Released to the public domain
+*/
 #include "Arduino.h"
 #include <SoftwareSerial.h>
 #include "Rd200m.h"
